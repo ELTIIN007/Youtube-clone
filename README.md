@@ -18,7 +18,7 @@ Projeto desenvolvido na Semana do 0 ao Programador no  canal DEV EM DOBRO <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Devburguer" src="./assets/img/layout.png" width="100%">
+  <img alt="projeto Devburguer" src="layout_youtube.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
